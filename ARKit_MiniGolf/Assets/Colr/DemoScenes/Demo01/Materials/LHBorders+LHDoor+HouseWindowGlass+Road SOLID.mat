@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LHBorders+LHDoor+HouseWindowGlass+Road SOLID
+  m_Shader: {fileID: 4800000, guid: 078b2a90d062e49c9903390f113619d3, type: 3}
+  m_ShaderKeywords: BACK_SOLID_ON COLR_1_2 FRONT_SOLID_ON LEFT_SOLID_ON LIGHTMAP_COLR_ON
+    RIGHT_SOLID_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LayoutTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientPower: 0
+    - _DistanceNear: 50
+    - _FogAnimationFreq: 0.1
+    - _FogAnimationHeight: 0.1
+    - _FogDensity: 1
+    - _FogEnd: 50
+    - _FogHeight: 126.5
+    - _FogStart: 0
+    - _FogYStartPos: -66.6
+    - _GradientHeight: 10
+    - _GradientYStartPos: 0
+    - _LayoutTexturePower: 0
+    - _LightmapPower: 0.1
+    - _MaxY: 50
+    - _MinY: -50
+    - _RimPower: 0.15
+    - _ShadowPower: 1
+    - _UseFogDistance: 0
+    - _UseLightMap: 1
+    m_Colors:
+    - _AmbientColor: {r: 1, g: 1, b: 1, a: 0}
+    - _BackBottomColor: {r: 0.9725491, g: 0.31764707, b: 0.31764707, a: 0}
+    - _BackColor: {r: 1, g: 0.31617647, b: 0.31617647, a: 0}
+    - _BackTopColor: {r: 0.9725491, g: 0.31764707, b: 0.31764707, a: 0}
+    - _BaseScale: {r: 1, g: 1, b: 1, a: 0}
+    - _BottomColor: {r: 0.22794116, g: 0.11397058, b: 0.11397058, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorFar: {r: 0.89705896, g: 0, b: 1, a: 1}
+    - _ColorNear: {r: 0, g: 1, b: 1, a: 1}
+    - _FogColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FrontBottomColor: {r: 0.18823531, g: 0.3647059, b: 0.44705886, a: 0}
+    - _FrontColor: {r: 0.1912846, g: 0.3633726, b: 0.44852942, a: 0}
+    - _FrontTopColor: {r: 0.18823531, g: 0.3647059, b: 0.44705886, a: 0}
+    - _LeftBottomColor: {r: 0, g: 0, b: 0, a: 0}
+    - _LeftColor: {r: 0.051470578, g: 0.04433983, b: 0.040116772, a: 0}
+    - _LeftTopColor: {r: 0, g: 0, b: 0, a: 0}
+    - _LightTint: {r: 1, g: 1, b: 1, a: 0}
+    - _LightmapColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Point: {r: -38.3, g: 25.26, b: -4.15, a: 1}
+    - _RightBottomColor: {r: 0.16862746, g: 0.14117648, b: 0.14117648, a: 0}
+    - _RightColor: {r: 0.16911763, g: 0.14051685, b: 0.14051685, a: 0}
+    - _RightTopColor: {r: 0.16862746, g: 0.14117648, b: 0.14117648, a: 0}
+    - _RimColor: {r: 0, g: 1, b: 0, a: 0}
+    - _TopColor: {r: 0.18382353, g: 0.13516435, b: 0.14623852, a: 0}
